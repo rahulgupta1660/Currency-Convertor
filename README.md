@@ -24,7 +24,7 @@
 <p>Clone the repository and open the index.html file in your preferred web browser.</p>
 
 git clone https://github.com/rahulgupta1660/Currency-Convertor.git
-cd simon-game
+cd Currency-Convertor
 
 <h3>API Usage :</h3>
 
